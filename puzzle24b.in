@@ -1,0 +1,277 @@
+a = {1, 26}
+c > 0
+
+new_z: f(z, a, b, c, i) -> ((z//a)*26 if z%26+b!=i else z//a) + (i+c if z%26+b!=i else 0)
+
+
+def new_z(z, a, b, c, i):
+    if (z % 26) + b == i:
+        return z // a
+    else:
+        return (z // a) * 26 + i + c
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
+
+inp w
+mul x 0
+add x z
+mod x 26
+div z a
+add x b
+eql x w
+eql x 0
+mul y 0
+add y 25
+mul y x
+add y 1
+mul z y
+mul y 0
+add y w
+add y c
+mul y x
+add z y
